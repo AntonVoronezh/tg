@@ -86,20 +86,12 @@ def make_image(img_path):
     im_crop.save(img_path_back_2, quality=95)
 
     im_contrast = Image.open(img_path_back_2)
-    im_contrast_rotate = im_contrast.transpose(PIL.Image.FLIP_LEFT_RIGHT)
-    enhancer = ImageEnhance.Contrast(im_contrast_rotate)
+    enhancer = ImageEnhance.Contrast(im_contrast)
     factor = 1.35
     im_contrast_output = enhancer.enhance(factor)
     enhancer_2 = ImageEnhance.Sharpness(im_contrast_output)
     factor_2 = 1.35
     im_contrast_output_2 = enhancer_2.enhance(factor_2)
-
-    # draw = ImageDraw.Draw(im_contrast_output_2)
-    # font = ImageFont.truetype("trebuc.ttf", size=30)
-    # draw.ellipse((530, 300, 570, 340), fill='#ffffff')
-    # draw.ellipse((695, 300, 735, 340), fill='#ffffff')
-    # draw.rectangle((550, 300, 710, 340), fill='#ffffff')
-    # draw.text((540, 300), '@doctor_psyh', '#000000', font)
 
     im_contrast_output_2.save(img_path_back_3)
 
