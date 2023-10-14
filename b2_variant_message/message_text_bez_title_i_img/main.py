@@ -19,16 +19,19 @@ def message_text_bez_title_i_img(api_url, api_chat_id, real_path, folder_name, s
         print(Fore.LIGHTRED_EX + f'"{folder_name}" закончились данные' + Fore.BLUE + f' ({message_type})')
         return None
     else:
-        random_elem_file = get_file_from_folder_by_name(folder_path=variants_folder_path, file_name=random_elem_name)
+        random_elem_file_json_text = get_file_from_folder_by_name(folder_path=variants_folder_path, file_name=random_elem_name)
+        random_elem_file_json_description = get_file_from_folder_by_name(folder_path=variants_folder_path, file_name=random_elem_name)
 
-        description_from_file = get_json_field(json_data=random_elem_file, field_name='description')
-        description = set_space_before_last_sentence(text=description_from_file)
+        description_from_file = get_json_field(json_data=random_elem_file_json_description, field_name='description')
+        text_from_file = get_json_field(json_data=random_elem_file_json_text, field_name='text')
         emoji_start = emoji['start']
         emoji_end = emoji['end']
+        text = set_space_before_last_sentence(text=text_from_file)
 
-        message = f'{emoji_start} {description} {emoji_end} \n\n {sign}'
+        message = f'{emoji_start} {text} \n\n {emoji_end} {description_from_file}'
 
-        random_elem_file.close()
+        random_elem_file_json_text.close()
+        random_elem_file_json_description.close()
 
         response = send_message(api_url=api_url, chat_id=api_chat_id, message=message)
 

@@ -30,19 +30,25 @@ def get_file_from_folder_by_name(folder_path, file_name):
 
 
 def get_json_field(json_data, field_name):
-    val = str(json.load(json_data)[field_name])
-    return val
-
+    if json_data:
+        try:
+            val = str(json.load(json_data)[field_name])
+            return val
+        except json.JSONDecodeError as e:
+            print(f"Ошибка: {e}")
+    else:
+        print("JSON строка пуста")
 
 def set_space_before_last_sentence(text):
     description_arr = text.split('.')
-    description_arr_filter = list(filter(None, description_arr))
-    description_arr_filter_reverse = description_arr_filter[::-1]
-    description_without_last = description_arr_filter[:-1]
-    last = description_arr_filter_reverse[0]
-    description = f'{". ".join(description_without_last)}. \n\n     {last}.'
-    return description
+    description_arr_out = f'<b>{description_arr[0]}.</b> \n\n'
 
+    for i, el in enumerate(description_arr):
+        if i != 0:
+             if len(el) > 0:
+                description_arr_out = f'{description_arr_out} {el}.'
+
+    return description_arr_out
 
 def remove_file_from_folder(folder_path, file_name):
     path = os.path.join(folder_path, file_name)
@@ -67,13 +73,13 @@ def make_caption(data):
     for el in arr:
         if len(el) > 0:
             arr2.append(f'{el}. ')
-    r = ['📝', '🧷', '✔️', '✍️', '📰', '📚', '🏷️', '📖']
-    return f'{choice(r)} ' + ''.join(arr2)
+    r = ['🌶']
+    return f'{choice(r)} <b>Новость:</b> ' + ''.join(arr2)
 
 
 def make_morality(data):
-    r = ['📌', '⁉️', '‼️️']
-    return f'{choice(r)} ️️{data}'
+    r = ['⚡️']
+    return f'{choice(r)} <b>Комментарий:</b> <i>{data}</i>'
 
 
 def make_image(img_path):
@@ -82,24 +88,25 @@ def make_image(img_path):
     img_path_back_3 = os.path.join(img_path, 'back_3.jpg')
 
     im = Image.open(img_path_back)
-    im_crop = im.crop((0, 50, 750, 400))
-    im_crop.save(img_path_back_2, quality=95)
+    # im_crop = im.crop((0, 50, 750, 400))
+    fixed_width = 400
+    width_percent = (fixed_width / float(im.size[0]))
+    height_size = int((float(im.size[1]) * float(width_percent)))
+    im = im.resize((fixed_width, height_size))
+
+    # fixed_height = 200
+    # width_percent = (fixed_height / float(im.size[1]))
+    # width_size = int((float(im.size[0]) * float(width_percent)))
+    #     im = im.resize((width_size, fixed_height))
+    im .save(img_path_back_2, quality=95)
 
     im_contrast = Image.open(img_path_back_2)
-    im_contrast_rotate = im_contrast.transpose(PIL.Image.FLIP_LEFT_RIGHT)
-    enhancer = ImageEnhance.Contrast(im_contrast_rotate)
+    enhancer = ImageEnhance.Contrast(im_contrast)
     factor = 1.35
     im_contrast_output = enhancer.enhance(factor)
     enhancer_2 = ImageEnhance.Sharpness(im_contrast_output)
     factor_2 = 1.35
     im_contrast_output_2 = enhancer_2.enhance(factor_2)
-
-    # draw = ImageDraw.Draw(im_contrast_output_2)
-    # font = ImageFont.truetype("trebuc.ttf", size=30)
-    # draw.ellipse((530, 300, 570, 340), fill='#ffffff')
-    # draw.ellipse((695, 300, 735, 340), fill='#ffffff')
-    # draw.rectangle((550, 300, 710, 340), fill='#ffffff')
-    # draw.text((540, 300), '@doctor_psyh', '#000000', font)
 
     im_contrast_output_2.save(img_path_back_3)
 
@@ -115,7 +122,7 @@ def check_folders(name):
 
 def check_folders_main(name):
     if len(name.split(
-            '.')) == 2 or name == 'main.py' or name == 'old' or name == '.idea' or name == 'b0_in_tg' or name == 'b1_helpers' or name == 'b2_variant_message' or name == 'a0_proba':
+            '.')) == 2 or name == 'main.py' or name == 'text' or name == '.idea' or name == 'b0_in_tg' or name == 'b1_helpers' or name == 'b2_variant_message' or name == 'a0_proba':
         return False
     return True
 

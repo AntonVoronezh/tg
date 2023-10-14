@@ -8,7 +8,7 @@ tg_url = 'https://t.me/nfxjdnfxlhxfithjpij'
 api_token = '6659447899:AAEe8JjANEGzeZ2TKsRkteM8Bx-TI2vhLlA'
 api_chat_id = '-1001802264924'
 api_url = f"https://api.telegram.org/bot{api_token}"
-sign = f'<a href="{tg_url}">👉 Доктор Фрейд. Подписаться</a>'
+sign = f'<a href="{tg_url}">👉 Я есть Фрейд! Подписаться</a>'
 is_remove = False
 
 realpath = os.path.dirname(os.path.realpath(__file__))
@@ -27,7 +27,7 @@ def start():
             folder_name=project,
             sign=sign,
             is_remove=is_remove,
-            emoji={'start': '💬', 'end': '😀'}
+            emoji={'start': '💬', 'end': '👆'}
         )
 
     if next_messages_type == 'message_img_s_title_i_text':

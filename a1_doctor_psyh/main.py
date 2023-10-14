@@ -8,7 +8,7 @@ tg_url = 'https://t.me/doctor_psyh'
 api_token = '6324718682:AAGPn4xYfKuVo33W1V2Jl93YWnUSUpev_Sk'
 api_chat_id = '-1001698544953'
 api_url = f"https://api.telegram.org/bot{api_token}"
-sign = f'<a href="{tg_url}">👉 Доктор Фрейд. Подписаться</a>'
+sign = f'<a href="{tg_url}">👉 Я есть Фрейд! Подписаться</a>'
 is_remove = True
 
 realpath = os.path.dirname(os.path.realpath(__file__))
