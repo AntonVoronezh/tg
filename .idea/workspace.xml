@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="89fe0975-f420-4a61-b442-6af07ea8165e" name="Changes" comment="g">
+      <change afterPath="$PROJECT_DIR$/a0_proba/message_img_s_title_i_text/variants/10/back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a0_proba/message_img_s_title_i_text/variants/10/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a0_proba/message_img_s_title_i_text/variants/12/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a0_proba/message_img_s_title_i_text/variants/13/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a0_proba/message_img_s_title_i_text/variants/14/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a0_proba/message_img_s_title_i_text/variants/19/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a0_proba/message_img_s_title_i_text/variants/22/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a0_proba/message_img_s_title_i_text/variants/23/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a0_proba/message_img_s_title_i_text/variants/25/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a0_proba_auto/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a0_proba_auto/my_account.session" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a0_proba_auto/variants/13/back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a0_proba_auto/variants/13/back_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a0_proba_auto/variants/13/back_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a0_proba_auto/variants/13/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a0_proba_auto/variants/30/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a0_proba_auto/variants/33/back_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a0_proba_auto/variants/33/back_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a0_proba_auto/variants/33/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a0_proba_auto/variants/48/back_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a0_proba_auto/variants/48/back_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a0_proba_auto/variants/48/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a0_proba_auto/variants/6/back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a0_proba_auto/variants/6/back_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a0_proba_auto/variants/6/back_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a0_proba_auto/variants/6/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a0_proba_auto/variants/7/back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a0_proba_auto/variants/7/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh/message_text_bez_title_i_img/variants/0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh/message_text_bez_title_i_img/variants/1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh/message_text_bez_title_i_img/variants/10.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh/message_text_bez_title_i_img/variants/11.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh/message_text_bez_title_i_img/variants/12.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh/message_text_bez_title_i_img/variants/12h.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh/message_text_bez_title_i_img/variants/13.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh/message_text_bez_title_i_img/variants/14.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh/message_text_bez_title_i_img/variants/15.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh/message_text_bez_title_i_img/variants/16.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh/message_text_bez_title_i_img/variants/17.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh/message_text_bez_title_i_img/variants/18.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh/message_text_bez_title_i_img/variants/19.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh/message_text_bez_title_i_img/variants/2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh/message_text_bez_title_i_img/variants/20.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh/message_text_bez_title_i_img/variants/22.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh/message_text_bez_title_i_img/variants/23.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh/message_text_bez_title_i_img/variants/24.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh/message_text_bez_title_i_img/variants/25.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh/message_text_bez_title_i_img/variants/26.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh/message_text_bez_title_i_img/variants/27.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh/message_text_bez_title_i_img/variants/28.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh/message_text_bez_title_i_img/variants/29.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh/message_text_bez_title_i_img/variants/3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh/message_text_bez_title_i_img/variants/4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh/message_text_bez_title_i_img/variants/5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh/message_text_bez_title_i_img/variants/6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh/message_text_bez_title_i_img/variants/7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh/message_text_bez_title_i_img/variants/8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh/message_text_bez_title_i_img/variants/8h.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh/message_text_bez_title_i_img/variants/9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh/message_text_bez_title_i_img/variants/9h.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/check_len.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/my_account.session" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/13/back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/13/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/2/back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/2/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/29/back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/29/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/30/back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/30/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/33/back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/33/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/34/back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/34/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/38/back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/38/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/42/back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/42/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/47/back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/47/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/48/back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/48/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/49/back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/49/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/51/back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/51/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/53/back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/53/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/54/back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/54/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/55/back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/55/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/56/back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/56/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/57/back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/57/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/58/back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/58/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/59/back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/59/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/60/back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/60/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/62/back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/62/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/63/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/64/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/66/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/67/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/68/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/69/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/70/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/71/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/72/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/73/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/74/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/75/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/76/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/79/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/80/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/81/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/82/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/83/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/84/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/85/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/87/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/88/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/89/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/92/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/93/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/95/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/96/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/99/text.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/razrab/1_schedule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/razrab/back_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/razrab/bot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/razrab/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/razrab/schedule_date.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_text_bez_title_i_img/out/30.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a0_proba/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/a0_proba/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a0_proba/message_text_bez_title_i_img/variants/1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/a0_proba/messages-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/a0_proba/messages-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a1_doctor_psyh/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/a1_doctor_psyh/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a1_doctor_psyh/message_img_s_title_i_text/variants/10/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/a1_doctor_psyh/message_img_s_title_i_text/variants/10/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/a1_doctor_psyh/message_img_s_title_i_text/variants/2/back.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/a0_proba/message_img_s_title_i_text/variants/2/back.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a1_doctor_psyh/message_img_s_title_i_text/variants/2/text.json" beforeDir="false" afterPath="$PROJECT_DIR$/a0_proba/message_img_s_title_i_text/variants/2/text.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a1_doctor_psyh/message_img_s_title_i_text/variants/3/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/a1_doctor_psyh/message_img_s_title_i_text/variants/3/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/a1_doctor_psyh/message_img_s_title_i_text/variants/5/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/a1_doctor_psyh/message_img_s_title_i_text/variants/5/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/a1_doctor_psyh/message_img_s_title_i_text/variants/6/back.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/a0_proba/message_img_s_title_i_text/variants/6/back.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a1_doctor_psyh/message_img_s_title_i_text/variants/6/text.json" beforeDir="false" afterPath="$PROJECT_DIR$/a0_proba/message_img_s_title_i_text/variants/6/text.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a1_doctor_psyh/message_img_s_title_i_text/variants/7/back.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/a0_proba/message_img_s_title_i_text/variants/7/back.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a1_doctor_psyh/message_img_s_title_i_text/variants/7/back_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/a0_proba_auto/variants/7/back_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a1_doctor_psyh/message_img_s_title_i_text/variants/7/back_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/a0_proba_auto/variants/7/back_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a1_doctor_psyh/message_img_s_title_i_text/variants/7/text.json" beforeDir="false" afterPath="$PROJECT_DIR$/a0_proba/message_img_s_title_i_text/variants/7/text.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a1_doctor_psyh/message_img_s_title_i_text/variants/9/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/a1_doctor_psyh/message_img_s_title_i_text/variants/9/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/a1_doctor_psyh/messages-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/a1_doctor_psyh/messages-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/b0_in_tg/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/b0_in_tg/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/b1_helpers/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/b1_helpers/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/b1_helpers/time.py" beforeDir="false" afterPath="$PROJECT_DIR$/b1_helpers/time.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/b2_variant_message/message_img_s_title_i_text/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/b2_variant_message/message_img_s_title_i_text/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/b2_variant_message/message_text_bez_title_i_img/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/b2_variant_message/message_text_bez_title_i_img/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proba.py" beforeDir="false" afterPath="$PROJECT_DIR$/proba.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/all_links/mental-health.txt" beforeDir="false" afterPath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/all_links/mental-health.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/all_links_i_img.txt" beforeDir="false" afterPath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/all_links_i_img.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/get_all_links.py" beforeDir="false" afterPath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/get_all_links.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/11/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/11/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/12/back.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/a0_proba/message_img_s_title_i_text/variants/12/back.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/12/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/13/back.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/a0_proba/message_img_s_title_i_text/variants/13/back.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/13/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/14/back.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/a0_proba/message_img_s_title_i_text/variants/14/back.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/14/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/15/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/15/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/16/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/16/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/17/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/17/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/18/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/18/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/19/back.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/a0_proba/message_img_s_title_i_text/variants/19/back.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/19/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/20/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/20/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/21/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/21/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/22/back.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/a0_proba/message_img_s_title_i_text/variants/22/back.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/22/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/23/back.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/a0_proba/message_img_s_title_i_text/variants/23/back.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/23/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/24/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/24/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/25/back.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/a0_proba/message_img_s_title_i_text/variants/25/back.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/25/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/26/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/26/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/27/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/27/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/28/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/28/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/29/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/29/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/30/back.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/a0_proba_auto/variants/30/back.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/30/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/31/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/31/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/32/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/32/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/33/back.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/a0_proba_auto/variants/33/back.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/33/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/34/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/34/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/35/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/35/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/36/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/36/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/37/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/37/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/38/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/38/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/39/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/39/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/40/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/40/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/41/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/41/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/42/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/42/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/43/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/43/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/44/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/44/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/45/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/45/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/46/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/46/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/47/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/47/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/48/back.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/a0_proba_auto/variants/48/back.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/48/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/49/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/49/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/50/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/50/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/51/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/51/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/52/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/52/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/53/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/53/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/54/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/54/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/55/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/55/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/56/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/56/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/57/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/57/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/58/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/58/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/59/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/59/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/60/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/60/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/61/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/61/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/62/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/62/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/63/back.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/63/back.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/63/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/64/back.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/64/back.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/64/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/65/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/65/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/66/back.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/66/back.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/66/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/67/back.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/67/back.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/67/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/68/back.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/68/back.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/68/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/69/back.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/69/back.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/69/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/70/back.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/70/back.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/70/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/71/back.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/71/back.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/71/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/72/back.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/72/back.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/72/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/73/back.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/73/back.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/73/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/74/back.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/74/back.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/74/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/75/back.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/75/back.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/75/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/76/back.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/76/back.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/76/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/77/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/77/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/78/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/78/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/79/back.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/79/back.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/79/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/80/back.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/80/back.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/80/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/81/back.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/81/back.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/81/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/82/back.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/82/back.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/82/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/83/back.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/83/back.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/83/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/84/back.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/84/back.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/84/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/85/back.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/85/back.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/85/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/86/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/86/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/87/back.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/87/back.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/87/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/88/back.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/88/back.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/88/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/89/back.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/89/back.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/89/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/90/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/90/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/91/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/91/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/92/back.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/92/back.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/92/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/93/back.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/93/back.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/93/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/94/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/94/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/95/back.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/95/back.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/95/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/96/back.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/96/back.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/96/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/97/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/97/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/98/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/98/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/99/back.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/a1_doctor_psyh_auto/variants/99/back.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text/out/99/text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_text_bez_title_i_img/in.txt" beforeDir="false" afterPath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_text_bez_title_i_img/in.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_text_bez_title_i_img/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_text_bez_title_i_img/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="telemetr" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2WKo4e2hFzXwHvIpUabgGBbUKP7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/a.glushenkov/PycharmProjects/tg&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\a.glushenkov\PycharmProjects\tg\a1_doctor_psyh_auto" />
+      <recent name="C:\Users\a.glushenkov\PycharmProjects\tg\a0_proba_auto\variants" />
+      <recent name="C:\Users\a.glushenkov\PycharmProjects\tg\a0_proba_auto" />
+      <recent name="C:\Users\a.glushenkov\PycharmProjects\tg\razrab" />
+      <recent name="C:\Users\a.glushenkov\PycharmProjects\tg\a0_proba" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\a.glushenkov\PycharmProjects\tg\a1_doctor_psyh_auto\variants" />
+      <recent name="C:\Users\a.glushenkov\PycharmProjects\tg\a0_proba_auto\variants" />
+      <recent name="C:\Users\a.glushenkov\PycharmProjects\tg\a1_doctor_psyh\message_img_s_title_i_text\variants" />
+      <recent name="C:\Users\a.glushenkov\PycharmProjects\tg\a1_doctor_psyh\message_text_bez_title_i_img\variants" />
+      <recent name="C:\Users\a.glushenkov\PycharmProjects\tg\razrab" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DjangoTestsConfigurationType">
+      <module name="tg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <module name="tg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="tg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Python.FlaskServer">
+      <module name="tg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="tg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Docutils task">
+      <module name="tg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Sphinx task">
+      <module name="tg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Autodetect">
+      <module name="tg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="tg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89fe0975-f420-4a61-b442-6af07ea8165e" name="Changes" comment="" />
+      <created>1696490442848</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696490442848</updated>
+      <workItem from="1696490443830" duration="740000" />
+      <workItem from="1697298695301" duration="113000" />
+      <workItem from="1697298925263" duration="9069000" />
+      <workItem from="1697374870266" duration="12000" />
+      <workItem from="1697374898822" duration="11323000" />
+      <workItem from="1697442752786" duration="15811000" />
+      <workItem from="1697527112373" duration="3402000" />
+      <workItem from="1697614453742" duration="1475000" />
+      <workItem from="1697657193818" duration="290000" />
+      <workItem from="1697701642588" duration="5645000" />
+      <workItem from="1697787396134" duration="6813000" />
+      <workItem from="1697898838051" duration="618000" />
+      <workItem from="1697982107028" duration="611000" />
+      <workItem from="1698046495951" duration="1820000" />
+      <workItem from="1698132723164" duration="3141000" />
+      <workItem from="1698168238660" duration="1408000" />
+      <workItem from="1698218961771" duration="8000" />
+      <workItem from="1698218970637" duration="10256000" />
+      <workItem from="1698246979359" duration="119000" />
+      <workItem from="1698247290819" duration="33000" />
+      <workItem from="1698250003707" duration="125000" />
+      <workItem from="1698259265055" duration="920000" />
+      <workItem from="1698307751873" duration="780000" />
+      <workItem from="1698514276711" duration="2802000" />
+      <workItem from="1698589464202" duration="13486000" />
+      <workItem from="1698673559085" duration="2121000" />
+    </task>
+    <task id="LOCAL-00001" summary="g">
+      <option name="closed" value="true" />
+      <created>1697298619976</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697298619976</updated>
+    </task>
+    <task id="LOCAL-00002" summary="g">
+      <option name="closed" value="true" />
+      <created>1697299137466</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697299137466</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="g" />
+    <option name="LAST_COMMIT_MESSAGE" value="g" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/tg$1_schedule.coverage" NAME="1_schedule Coverage Results" MODIFIED="1697386997464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/razrab" />
+    <SUITE FILE_PATH="coverage/old$1.coverage" NAME="1 Coverage Results" MODIFIED="1696490494141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tg$schedule.coverage" NAME="schedule Coverage Results" MODIFIED="1697386507522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/razrab" />
+    <SUITE FILE_PATH="coverage/tg$schedule_date.coverage" NAME="schedule_date Coverage Results" MODIFIED="1697380204810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/razrab" />
+    <SUITE FILE_PATH="coverage/tg$main2.coverage" NAME="main2 Coverage Results" MODIFIED="1697050392257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tg$main.coverage" NAME="main Coverage Results" MODIFIED="1698515627307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text" />
+    <SUITE FILE_PATH="coverage/tg$proba.coverage" NAME="proba Coverage Results" MODIFIED="1697478441261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tg$get_all_links.coverage" NAME="get_all_links Coverage Results" MODIFIED="1698514640070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/text/a1_doctor_psyh_text/message_img_s_title_i_text" />
+    <SUITE FILE_PATH="coverage/tg$main22.coverage" NAME="main22 Coverage Results" MODIFIED="1697039870514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tg$check_len.coverage" NAME="check_len Coverage Results" MODIFIED="1698675485714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/a1_doctor_psyh_auto" />
+    <SUITE FILE_PATH="coverage/tg$bot.coverage" NAME="bot Coverage Results" MODIFIED="1697383117229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/razrab" />
+    <SUITE FILE_PATH="coverage/old$11.coverage" NAME="11 Coverage Results" MODIFIED="1696490538402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tg$main22222.coverage" NAME="main22222 Coverage Results" MODIFIED="1697042912513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tg$get_chanal_data.coverage" NAME="get_chanal_data Coverage Results" MODIFIED="1696948066903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
