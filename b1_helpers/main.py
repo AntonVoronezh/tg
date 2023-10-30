@@ -87,7 +87,8 @@ def make_image(img_path):
     img_path_back_2 = os.path.join(img_path, 'back_2.jpg')
     img_path_back_3 = os.path.join(img_path, 'back_3.jpg')
 
-    im = Image.open(img_path_back)
+    im_in = Image.open(img_path_back)
+    im = im_in.convert('RGB')
     # im_crop = im.crop((0, 50, 750, 400))
     fixed_width = 400
     width_percent = (fixed_width / float(im.size[0]))
@@ -149,52 +150,65 @@ def get_current_message_type(folder_path):
     return current
 
 
-def set_new_message_type(folder_path):
-    messages_variants = get_folders_s_variants(folder_path=folder_path)
-    last_message_type_file = os.path.join(folder_path, 'last_message_type.txt')
-
-    messages_types = []
-    for name in messages_variants:
-        try:
-            d = os.listdir(os.path.join(folder_path, name, 'variants'))
-
-            if 0 < len(d) - 1 < 5:
-                print(f'📁 {name}' + Fore.LIGHTYELLOW_EX + f' мало данных ({len(d) - 1})' + Fore.RESET)
-
-            if len(d) == 0:
-                print(f'📁 {name}' + Fore.RED + ' закончились данные' + Fore.RESET)
-
-            if len(d) != 0:
-                messages_types.append(name)
-        except:
-            pass
-
-    if len(messages_types) == 0:
-        print('❗❗❗❗❗❗❗❗❗❗❗❗❗❗  ВСЁ ЗАКОНЧИЛОСЬ  ❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗')
-        return None
-
-    try:
-        file = open(last_message_type_file, 'r')
-    except:
-        write_current_message_type(folder_path=folder_path, next_messages_type='None')
-        file = open(last_message_type_file, 'r')
-
-    last_messages_type = file.read()
-
-    if last_messages_type == 'None' or len(last_messages_type) == 0 or last_messages_type not in messages_types:
-        next_messages_type = choice(messages_types)
+def messages_variants_counts(folder_path, with_folders):
+    if with_folders:
+        messages_variants = get_folders_s_variants(folder_path=folder_path)
     else:
-        last_messages_type_index = messages_types.index(last_messages_type)
+        messages_variants = os.listdir(folder_path)
 
-        next_messages_type_index = last_messages_type_index + 1 if last_messages_type_index + 1 <= len(
-            messages_types) - 1 else 0
-        next_messages_type = messages_types[next_messages_type_index]
+    count = len(messages_variants)
 
-    ff = open(last_message_type_file, 'w')
-    ff.write(next_messages_type)
-    ff.close()
+    if count > 3:
+        print(Fore.WHITE + f'Осталось {count}' + Fore.RESET)
+    else:
+        print(Fore.RED + f'Осталось {count}' + Fore.RESET)
 
-    return next_messages_type
+# def set_new_message_type(folder_path):
+#     messages_variants = get_folders_s_variants(folder_path=folder_path)
+#     last_message_type_file = os.path.join(folder_path, 'last_message_type.txt')
+#
+#     messages_types = []
+#     for name in messages_variants:
+#         try:
+#             d = os.listdir(os.path.join(folder_path, name, 'variants'))
+#
+#             if 0 < len(d) - 1 < 5:
+#                 print(f'📁 {name}' + Fore.LIGHTYELLOW_EX + f' мало данных ({len(d) - 1})' + Fore.RESET)
+#
+#             if len(d) == 0:
+#                 print(f'📁 {name}' + Fore.RED + ' закончились данные' + Fore.RESET)
+#
+#             if len(d) != 0:
+#                 messages_types.append(name)
+#         except:
+#             pass
+#
+#     if len(messages_types) == 0:
+#         print('❗❗❗❗❗❗❗❗❗❗❗❗❗❗  ВСЁ ЗАКОНЧИЛОСЬ  ❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗')
+#         return None
+#
+#     try:
+#         file = open(last_message_type_file, 'r')
+#     except:
+#         write_current_message_type(folder_path=folder_path, next_messages_type='None')
+#         file = open(last_message_type_file, 'r')
+#
+#     last_messages_type = file.read()
+#
+#     if last_messages_type == 'None' or len(last_messages_type) == 0 or last_messages_type not in messages_types:
+#         next_messages_type = choice(messages_types)
+#     else:
+#         last_messages_type_index = messages_types.index(last_messages_type)
+#
+#         next_messages_type_index = last_messages_type_index + 1 if last_messages_type_index + 1 <= len(
+#             messages_types) - 1 else 0
+#         next_messages_type = messages_types[next_messages_type_index]
+#
+#     ff = open(last_message_type_file, 'w')
+#     ff.write(next_messages_type)
+#     ff.close()
+#
+#     return next_messages_type
 
 
 def write_message_response(message_type, folder_path, response):

@@ -1,6 +1,10 @@
 import os
+import time
+from datetime import datetime
+
+import schedule
+
 from b1_helpers.main import check_folders_main
-from b1_helpers.time import post_timer
 
 from a0_proba.main import start as a0_proba_start
 from a1_doctor_psyh.main import start as a1_doctor_psyh_start
@@ -29,4 +33,20 @@ def main():
                 a1_doctor_psyh_start()
 
 
-post_timer(main)
+
+print('start')
+main()
+# post_timer(main)
+# schedule.every().day.at("8:05").do(main)
+# schedule.every().day.at("9:05").do(main)
+# schedule.every().day.at("12:05").do(main)
+# schedule.every().day.at("15:05").do(main)
+# schedule.every().day.at("19:05").do(main)
+# schedule.every().day.at("20:05").do(main)
+
+# schedule.every().minute.at(":37").do(a0_proba_message_text_bez_title_i_img)
+#
+# while True:
+#     schedule.run_pending()
+#     print(datetime.now())
+#     time.sleep(1)

@@ -80,6 +80,6 @@ for i in range(1, 164):
 
 
 
-for i in arr_img_set:
-    print(i, flush=True)
+for i, el in enumerate(arr_img_set):
+    print(f'{el}***{i}', flush=True)
 

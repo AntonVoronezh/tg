@@ -4,7 +4,7 @@ from colorama import Fore
 
 from b0_in_tg.main import send_photo_from_file
 from b1_helpers.main import get_random_elem_name_from_folder, get_file_from_folder_by_name, get_json_field, \
-    make_caption, make_morality, remove_folder, make_image, write_message_response
+    make_caption, make_morality, remove_folder, make_image, write_message_response, messages_variants_counts
 
 
 def message_img_s_title_i_text(api_url, api_chat_id, real_path, folder_name, sign, is_remove):
@@ -54,6 +54,8 @@ def message_img_s_title_i_text(api_url, api_chat_id, real_path, folder_name, sig
 
                 if is_remove:
                     remove_folder(folder_path=variants_folder_path_img)
+
+                messages_variants_counts(folder_path=variants_folder_path, with_folders=True)
 
                 return response
             else:

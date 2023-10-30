@@ -4,7 +4,7 @@ from colorama import Fore
 
 from b0_in_tg.main import send_message
 from b1_helpers.main import get_random_elem_name_from_folder, get_file_from_folder_by_name, get_json_field, \
-    set_space_before_last_sentence, remove_file_from_folder, write_message_response
+    set_space_before_last_sentence, remove_file_from_folder, write_message_response, messages_variants_counts
 
 
 def message_text_bez_title_i_img(api_url, api_chat_id, real_path, folder_name, sign, is_remove, emoji):
@@ -28,7 +28,7 @@ def message_text_bez_title_i_img(api_url, api_chat_id, real_path, folder_name, s
         emoji_end = emoji['end']
         text = set_space_before_last_sentence(text=text_from_file)
 
-        message = f'{emoji_start} {text} \n\n {emoji_end} {description_from_file}'
+        message = f'{emoji_start} {text} \n\n {emoji_end} <i>{description_from_file}</i>'
 
         random_elem_file_json_text.close()
         random_elem_file_json_description.close()
@@ -42,6 +42,9 @@ def message_text_bez_title_i_img(api_url, api_chat_id, real_path, folder_name, s
 
             if is_remove:
                 remove_file_from_folder(folder_path=variants_folder_path, file_name=random_elem_name)
+
+            messages_variants_counts(folder_path=variants_folder_path, with_folders=False)
+
             return response
         else:
             print(f'⛔ {message_type}')

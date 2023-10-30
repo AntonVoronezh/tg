@@ -23,11 +23,11 @@ def print_sleep(a, b, format):  # в минутах
             time.sleep(60)
 
 
-def post_timer(func):
-    func()
-    current_time = datetime.now().time()
-    current_time_split = str(current_time).split('.')
-    print(Fore.BLUE + f'{current_time_split[0]}' + Fore.RESET)
-    print_sleep(a=100, b=120, format='min')
-    post_timer(func)
+# def post_timer(func):
+#     func()
+#     current_time = datetime.now().time()
+#     current_time_split = str(current_time).split('.')
+#     print(Fore.BLUE + f'{current_time_split[0]}' + Fore.RESET)
+#     print_sleep(a=100, b=120, format='min')
+#     post_timer(func)
 

@@ -59,13 +59,14 @@ for i, line in enumerate(lines):
     link_split = line.split("***")
     link = link_split[1]
     img = link_split[0]
-    num = str(i)
+    folder_name = link_split[2]
+    # num = str(i)
     text = get_text(link)
-    os.makedirs(f'out/{num}')
-    file_name = os.path.join(num, 'text')
+    os.makedirs(f'out/{folder_name}')
+    file_name = os.path.join(folder_name, 'text')
 
     print(i, link, flush=True)
-    with open(f'out/{num}/text.json', 'w', encoding='utf-8') as outfile:
+    with open(f'out/{folder_name}/text.json', 'w', encoding='utf-8') as outfile:
         json.dump(text, outfile, indent=4, ensure_ascii=False)
 
-    get_image(img, num)
+    get_image(img, folder_name)
